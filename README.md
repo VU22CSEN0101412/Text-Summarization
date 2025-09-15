@@ -5,8 +5,7 @@ The Text-Summarizer-Project is an advanced natural language processing (NLP) app
 
 The primary objective of the Text-Summarizer-Project is to develop a robust and versatile system capable of summarizing a wide range of textual data, including articles, research papers, news reports, and other lengthy documents. The system will employ state-of-the-art algorithms and models to analyze the input text, identify important sentences, and generate concise summaries that capture the essence of the original content.
 
-## Website
-![](https://github.com/praj2408/Text-Summarizer-Project/blob/main/images/website.jpg)
+
 
 ### Key Features and Functionality:
 
@@ -72,7 +71,7 @@ We conducted one epoch of training due to low computing power on our model, but 
 Contributions to this project are welcome! To contribute, please follow the standard GitHub workflow for pull requests.
 
 ## Contact Information
-If you have any questions or comments about this project, feel free to contact the project maintainer at prajwalgbdr03@gmail.com.
+If you have any questions or comments about this project, feel free to contact the project maintainer at gvaleti@gitam.in
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -115,9 +114,9 @@ open up you local host and port
 
 
 ```bash
-Author: Prajwal Krishna
-Data Scientist
-Email: prajwalgbdr03@gmail.com
+Author: Gowtham Valeti
+
+Email: gvlaeti@gitam.in
 
 ```
 
